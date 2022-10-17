@@ -5,8 +5,8 @@ const siteMetadata = {
   description: '개발 블로그면서 개인적인 블로그',
   language: 'ko-KR',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://bokdolblog.vercel.app/',
+  siteRepo: 'https://github.com/Bokdol11859/BokDol-Blog',
   siteLogo: '/static/images/avatar.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
