@@ -1,6 +1,6 @@
 ---
 title: 리액트 생명주기에 대한 깊은 관찰 (Life Cycle, Hook Flow)
-date: '2023-01-04'
+date: '2022-12-08'
 tags: ['리액트', 'React']
 draft: false
 summary: 리액트 Life Cycle 또는 Hook Flow가 뭔지 모르신다면 읽어보시는 것도 나쁘지 않습니다
